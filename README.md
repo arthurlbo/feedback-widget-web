@@ -23,8 +23,8 @@ cd feedback-widget-web
 ### 🚀 Run
 
 ```bash
-npm install
-npm run dev
+yarn
+yarn dev
 ```
 #### Open http://localhost:3000 with your browser to see the result.
 
@@ -33,7 +33,7 @@ npm run dev
 - `dev`: run development server
 
 ### 📱 Mobile version
-[Habits App](https://github.com/arthurlbo/feedback-widget-app)
+[Feedback Widget App](https://github.com/arthurlbo/feedback-widget-app)
 
 ## Made with 💜 by Arthur
 
